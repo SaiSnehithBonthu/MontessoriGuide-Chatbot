@@ -9,8 +9,8 @@ duckdb==0.7.1
 chromadb==0.3.26
 beautifulsoup4==4.12.2
 sentence-transformers==2.2.2
-sentencepiece
 six==1.16.0
 requests==2.31.0
 torchvision==0.23.0
+
 
